@@ -43,7 +43,7 @@ input.submit {
   padding: 5px 20px;
   height: 45px;
   width: 90%;
-  background: linear-gradient(bottom, #faa600, #f68a00);
-  background: -moz-border-gradient(bottom, #faa600, #f68a00);
-  background: -webkit-border-gradient(bottom, #faa600, #f68a00);
+  background: linear-gradient(to bottom, #faa600, #f68a00);
+  background: -moz-border-gradient(to bottom, #faa600, #f68a00);
+  background: -webkit-border-gradient(to bottom, #faa600, #f68a00);
 }
